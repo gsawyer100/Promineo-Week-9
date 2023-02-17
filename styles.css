@@ -1,0 +1,17 @@
+body{
+    color:white;
+    background-color:indianred;
+}
+
+text{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+text-align:center;
+}
+
+nav{
+    -ms-text-combine-horizontal: all;
+}
+
+img{
+    size:200px, 200px;
+}
